@@ -1,7 +1,7 @@
 Hi 👋 My name is Manaz
 ======================
 
-Web developer and designer
+Web Developer // Designer
 --------------------------
 
 * 🌍  I'm based in India
