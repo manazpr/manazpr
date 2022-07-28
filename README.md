@@ -3,7 +3,7 @@ Hi 👋 My name is Manaz
 
 Web Developer // Designer
 --------------------------
-<a href="https://manaz.vercel.app" target="_blank" rel="noreferrer">Portfolio</a>
+<a href="https://manaz.vercel.app" target="_blank" rel="noreferrer"><h2>Portfolio↗️</h2></a>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manazpr@gmail.com](mailto:manazpr@gmail.com)
