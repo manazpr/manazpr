@@ -1,7 +1,7 @@
 Hi 👋 My name is Manaz
 ======================
 
-Web Developer // Designer
+Developer // Designer
 --------------------------
 <a href="https://manaz.vercel.app" target="_blank" rel="noreferrer"><h2>Portfolio↗️</h2></a>
 
@@ -54,6 +54,4 @@ src="https://img.shields.io/twitter/follow/manazpr?logo=twitter&style=for-the-ba
 
 <a href="https://github.com/manazpr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manazpr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/manazpr/super-payroll" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manazpr&repo=super-payroll&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/manazpr/TimeLockWallet-Biconomy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manazpr&repo=TimeLockWallet-Biconomy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
